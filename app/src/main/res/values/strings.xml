@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Swoosha</string>
+    <string name="background_image">background image</string>
+    <string name="logo">logo</string>
+    <string name="favoruite_vehciels">Favoruite Vehciels</string>
+    <string name="_1_series">1 Series</string>
+    <string name="_3_series">3 Series</string>
+    <string name="_5_series">5 Series</string>
+    <string name="_7_series">7 Series</string>
+    <string name="m_series">M Series</string>
+    <string name="x_series">X Series</string>
+    <string name="next">Next</string>
+    <string name="welcome_to_bmw_world">Welcome to BMW World</string>
+    <string name="the_feature_of_mobility">THE FEATURE OF MOBILITY</string>
+    <string name="find_your_dream_vehicle_and_enjoy_the_comfort">Find your dream vehicle, and enjoy the comfort</string>
+    <string name="let_choose">Let choose</string>
 </resources>
